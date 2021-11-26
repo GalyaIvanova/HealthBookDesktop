@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dorkbox:Updates:1.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dorkbox/Updates/1.1/Updates-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dorkbox/Updates/1.1/Updates-1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dorkbox/Updates/1.1/Updates-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
